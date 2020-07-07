@@ -1,0 +1,9 @@
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\bin\Debug\Tenkovi.exe.config
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\bin\Debug\Tenkovi.exe
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\bin\Debug\Tenkovi.pdb
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\obj\Debug\Tenkovi.csprojAssemblyReference.cache
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\obj\Debug\Tenkovi.Form1.resources
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\obj\Debug\Tenkovi.Properties.Resources.resources
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\obj\Debug\Tenkovi.csproj.GenerateResource.cache
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\obj\Debug\Tenkovi.exe
+C:\Users\mahir\Desktop\Tenkovi\Tenkovi\obj\Debug\Tenkovi.pdb
